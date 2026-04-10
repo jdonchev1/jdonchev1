@@ -6,3 +6,4 @@
 |---|------|----------|----------|------|----------------------|
 | 1 | Jul 2025 | [Mystic Finance](https://cantina.xyz/code/c160af78-28f8-47f7-9926-889b3864c6d8/overview/leaderboard) | 1H, 1M | RWA | Cantina |
 | 2 | Dec 2025 | [Rain](https://hackenproof.com/audit-programs/rain-smart-contract-audit-contest) | 1C, 1H, 1L | Prediction Markets | HackenProof |
+| 3 | Apr 2026 | [Olas](https://code4rena.com/audits/2026-01-olas) | 1M | Ai Agents | Code4rena |
