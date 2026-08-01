@@ -1,4 +1,5 @@
 # Portfolio
+I'm a smart contract security researcher with experience auditing DeFi protocols and competing in public audit contests. Here are my public findings across Code4rena, Cantina, and HackenProof as I continue to improve my auditing skills. 
 
 ## 🏆 Public Contests
 
